@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/jeromeetienne/ar.js",
   "dependencies": {
-    "three": "0.86.0"
+    "three": "0.137.0"
   }
 }
